@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <stdlib.h>
 /**
  * main - prints all possible combinations of two two-digit numbers
  * with only putchar()
