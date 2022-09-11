@@ -1,12 +1,10 @@
 #include <stdio.h>
-
 /**
  * main - prints all possible combinations of two two-digit numbers
  * with only putchar()
  *
  * Return: 0 - Success
  */
-
 int main(void)
 {
 int i, o;
